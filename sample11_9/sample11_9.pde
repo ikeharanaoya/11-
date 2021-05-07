@@ -13,11 +13,7 @@ void setup(){
   deformHex();
   drawTiling();
 }
-void draw(){
-  background(1, 0, 1);
-  deformHex();
-  drawTiling();
-}
+void draw(){}
 void mouseClicked(){
   background(1, 0, 1);
   deformHex();
